@@ -79,8 +79,7 @@ analytics:
 author:
   name             : "Karthik Srinivasan"
   avatar           : "profile.png"
-  bio              : "Health information systems, digital health, statistical machine learning,
-machine learning interpretability"
+  bio              : "Explanatory modeling, GenAI impact, crowdfunding"
   location         : "Lawrence, Kansas"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=RBDwMEAAAAAJ&hl=en&oi=ao"
@@ -90,9 +89,9 @@ machine learning interpretability"
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "karthik.srinivasan1"
+  facebook         : 
   foursquare       :
-  github           : "KarAnalytics"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
@@ -101,10 +100,10 @@ machine learning interpretability"
   orcid            :
   pinterest        :
   soundcloud       :
-  stackoverflow    : "2896323"
+  stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "KarAnalytics"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
